@@ -19,22 +19,19 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              Ipsum lorem dolor aliquam ante commodo
+              Hi, my name is Madison, I'm a software devloper.
               <br />
-              magna sed accumsan arcu neque.
+              Let's build something new.
             </h2>
           </header>
           <p>
-            Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc
-            nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae
-            lobortis tortor primis integer massa adipiscing id nisi accumsan
-            pellentesque commodo blandit enim arcu non at amet id arcu magna.
-            Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate
-            lorem neque cubilia.
+            I need to have a purpose in my work, one that helps people thrive. Through technology, I can solve problems, build amazing things, all while creating a brighter world.
+
+            Prior to software development, I have a background in psychology. Most of my professional life has been spent as a Youth and Young Adult Counselor. I'm ready to use the skills learned from this experience in a more technical role as a software developer.
           </p>
           <ul className="actions">
             <li>
-              <a href="#" className="button">
+              <a href="https://www.linkedin.com/in/madison-stehle/" className="button">
                 Learn More
               </a>
             </li>
@@ -58,9 +55,7 @@ const HomeIndex = () => {
         <section id="three">
           <h2>Get In Touch</h2>
           <p>
-            Accumsan pellentesque commodo blandit enim arcu non at amet id arcu
-            magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem
-            vulputate lorem neque lorem ipsum dolor.
+           I would love to hear from you! Let's collaborate.
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
