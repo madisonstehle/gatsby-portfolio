@@ -5,7 +5,9 @@ const GalleryItem = ({id, source, thumbnail, caption, description, position, tog
 
     const onClick = useCallback((e) => {
         e.preventDefault()
-        toggleLightbox(position)
+        // toggleLightbox(position)
+        window.location.href=source;
+        // console.log(source);
     }, [position, toggleLightbox]);
 
     return (<article key={id} className="6u 12u$(xsmall) work-item">
